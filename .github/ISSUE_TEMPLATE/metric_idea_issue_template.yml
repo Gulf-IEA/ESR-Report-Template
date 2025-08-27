@@ -18,7 +18,7 @@ body:
     id: metric_description
     attributes:
         label: Metric description
-        Description: Plain language description (one sentence).
+        description: Plain language description (one sentence).
     validations:
         required: true
         
@@ -27,21 +27,21 @@ body:
     id: metric_data_source
     attributes:
         label: Data Source
-        Description: What is source of the data (e.g., the program name).
+        description: What is source of the data (e.g., the program name).
         
 # Metric Data Source Link
   - type: input
     id: metric_data_link
     attributes:
         label: Data Source Link
-        Description: Input hyperlink to the data (if available).
+        description: Input hyperlink to the data (if available).
         
 # Metric References
   - type: textarea
     id: reference
     attributes:
         label: References
-        Description: Add any references such as peer reviewed or gray literature here.
+        description: Add any references such as peer reviewed or gray literature here.
         
 #Your Name
   - type: input
@@ -90,6 +90,6 @@ body:
     id: contributors
     attributes:
         label: Other Contributors
-        Description: Add any other collabotor names (internal or external).
+        description: Add any other collabotor names (internal or external).
         
         
