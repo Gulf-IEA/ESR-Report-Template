@@ -4,8 +4,8 @@ title: "[Metric Idea]: "
 labels: ["Idea"]
 
 body:
-- type: markdown
-    attributes:
+  - type: markdown
+     attributes:
         value: "Please fill this form out during the development of a potential metric for an ESR. Review and edit this form as more information becomes available."  
    
   - type: input
