@@ -6,6 +6,7 @@ labels: '[PRODUCTION]'
 
 body:
   - type: markdown
+    id: description
     attributes:
       value: |
         Please do not fill out this form until ALL details have been compiled for your metric. These responses will directly populate the ESR Methods Document. Please contact Brendan, Brittany, Carissa, Mandy, or Will with questions.
