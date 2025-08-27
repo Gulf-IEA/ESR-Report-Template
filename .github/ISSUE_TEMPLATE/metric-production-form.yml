@@ -71,6 +71,19 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: effort_level
+    attributes:
+      label: Level of Effort Required to Update Metric
+      description: How intensive is the update process for these data?
+      multiple: false
+      options:
+        - High Effort 
+        - Medium Effort
+        - Low Effort (automated)
+    validations:
+      required: true
+
   - type: input
     id: data_source
     attributes:
