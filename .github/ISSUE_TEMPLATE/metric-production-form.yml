@@ -146,7 +146,7 @@ body:
     validations:
       required: false
 
-    - type: input
+  - type: input
     id: spatial_resolution
     attributes:
       label: Spatial Resolution of Data
@@ -155,7 +155,7 @@ body:
     validations:
       required: false
 
-    - type: input
+  - type: input
     id: temporal_extent
     attributes:
       label: Temporal Extent (Time Period) of Data
@@ -164,7 +164,7 @@ body:
     validations:
       required: false
 
-    - type: input
+  - type: input
     id: temporal_resolution
     attributes:
       label: Temporal Resolution of Data
@@ -173,7 +173,7 @@ body:
     validations:
       required: true
 
-    - type: input
+  - type: input
     id: unit
     attributes:
       label: Unit of Measurement
@@ -182,7 +182,7 @@ body:
     validations:
       required: true
 
-    - type: textarea
+  - type: textarea
     id: confidence
     attributes:
       label: Confidence or Uncertainty Information
@@ -191,7 +191,7 @@ body:
     validations:
       required: false
 
-    - type: textarea
+  - type: textarea
     id: method
     attributes:
       label: Methods
@@ -200,7 +200,7 @@ body:
     validations:
       required: true
 
-    - type: input
+  - type: input
     id: code_link
     attributes:
       label: Direct Link to Code
@@ -209,7 +209,7 @@ body:
     validations:
       required: false
 
-    - type: input
+  - type: input
     id: final_data_link
     attributes:
       label: Direct Link to Final Data
@@ -218,7 +218,7 @@ body:
     validations:
       required: true
 
-    - type: dropdown
+  - type: dropdown
     id: visualization_type
     attributes:
       label: Type of Visualization
@@ -232,7 +232,7 @@ body:
     validations:
       required: true
 
-    - type: dropdown
+  - type: dropdown
     id: trend_analysis_method
     attributes:
       label: Trend Analysis Method
@@ -244,7 +244,7 @@ body:
     validations:
       required: false
 
-    - type: input
+  - type: input
     id: iea_poc
     attributes:
       label: IEA Point of Contact
@@ -253,7 +253,7 @@ body:
     validations:
       required: true
 
-    - type: input
+  - type: input
     id: iea_poc_email
     attributes:
       label: IEA Point of Contact Email
@@ -262,7 +262,7 @@ body:
     validations:
       required: true
 
-   - type: input
+  - type: input
     id: external_sme
     attributes:
       label: External Subject Matter Expert
@@ -289,7 +289,7 @@ body:
     validations:
       required: false
 
-    - type: input
+  - type: input
     id: data_steward_email
     attributes:
       label: Data Steward Email
@@ -298,7 +298,7 @@ body:
     validations:
       required: false
 
-     - type: textarea
+   - type: textarea
     id: contributors
     attributes:
       label: Other Contributors
@@ -307,7 +307,7 @@ body:
     validations:
       required: false
 
-    - type: textarea
+   - type: textarea
     id: other_info
     attributes:
       label: Other Information
