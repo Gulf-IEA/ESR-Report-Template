@@ -271,7 +271,7 @@ body:
     validations:
       required: true
 
-  - type: input
+- type: input
     id: external_sme_email
     attributes:
       label: External Subject Matter Expert
