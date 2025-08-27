@@ -159,7 +159,7 @@ body:
     id: temporal_extent
     attributes:
       label: Temporal Extent (Time Period) of Data
-      description: Please provide the temporal extent of these data. Please use the following format: [min] - [max]
+      description: Please provide the temporal extent of these data. Please use the following format- [min] - [max]
       placeholder: "undefined FILL THIS IN WITH A SPECIFIC DATETIME"
     validations:
       required: false
