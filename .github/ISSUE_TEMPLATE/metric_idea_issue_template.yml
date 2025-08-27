@@ -1,17 +1,47 @@
 name: SE-IEA ESR - Metric Development/Idea Issue
 description: Use this issue template if you have a lead on potential metric to include in the ESR
 title: "[Metric Idea]: "
-labels: ["metric_idea"]
+labels: ["Idea"]
 
 body:
   - type: input
-    id: indicator_name
+    id: metric_name
     attributes:
-        label: Potential Indicator Name
+        label: Potential Metric Name
         description: What is the name of this potential indicator to include in the ESR?
         placeholder: "Ex: Sea Surface Temperature"
     validations:
         required: true
+        
+# Metric Description
+  - type: textarea
+    id: metric_description
+    attributes:
+        label: Metric description
+        Description: Plain language description (one sentence).
+    validations:
+        required: true
+        
+# Metric Data Source
+  - type: textarea
+    id: metric_data_source
+    attributes:
+        label: Data Source
+        Description: What is source of the data (e.g., the program name).
+        
+# Metric Data Source Link
+  - type: input
+    id: metric_data_link
+    attributes:
+        label: Data Source Link
+        Description: Input hyperlink to the data (if available).
+        
+# Metric References
+  - type: textarea
+    id: reference
+    attributes:
+        label: References
+        Description: Add any references such as peer reviewed or gray literature here.
         
 #Your Name
   - type: input
@@ -20,27 +50,46 @@ body:
         label: IEA POC
         placeholder: Jane Doe
         
-#Is indicator selected
-  - type: dropdown
-    id: metric_selected
-    attributes:
-      label: Selected
-      description: Is this metric selected for further development?
-      options:
-        - Yes
-        - No
-        - Maybe
-      default: 0
-    validations:
-      required: true
-        
-#External subject matter expert
+#Your email
   - type: input
-    id: sme_poc
+    id: contributor_email
     attributes:
-        label: External SME
-        placeholder: Jane Doe
+        label: IEA POC email
+        placeholder: Jane.Doe@noaa.gov
         
+#SME Name
+  - type: input
+    id: sme_name
+    attributes:
+        label: External SME name
+        placeholder: John Doe
         
+#SME email
+  - type: input
+    id: sme_email
+    attributes:
+        label: External SME email
+        placeholder: John.Doe@miami.edu
+
+#Data Steward Name
+  - type: input
+    id: data_steward_name
+    attributes:
+        label: Data Steward name
+        placeholder: Bob Dole
+        
+#Data Steward email
+  - type: input
+    id: data_steward_email
+    attributes:
+        label: Data Steward email
+        placeholder: Bob.Dole@miami.edu
+        
+# Contributors
+  - type: textarea
+    id: contributors
+    attributes:
+        label: Other Contributors
+        Description: Add any other collabotor names (internal or external).
         
         
