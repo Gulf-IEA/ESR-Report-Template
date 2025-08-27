@@ -17,7 +17,7 @@ body:
     validations:
         required: true
         
-# Metric Description
+  # Metric Description
   - type: textarea
     id: metric_description
     attributes:
@@ -26,7 +26,7 @@ body:
     validations:
         required: true
 
-  # Metric Description
+  # Metric Narrative
   - type: textarea
     id: metric_narrative
     attributes:
@@ -35,76 +35,76 @@ body:
     validations:
         required: true
         
-# Metric Data Source
+  # Metric Data Source
   - type: textarea
     id: metric_data_source
     attributes:
         label: Data Source
-        description: What is source of the data (e.g., the program name).
+        description: What is the source of the data (e.g., the program name).
         
-# Metric Data Source Link
+  # Metric Data Source Link
   - type: input
     id: metric_data_link
     attributes:
         label: Data Source Link
         description: Input hyperlink to the data (if available).
         
-# Metric References
+  # Metric References
   - type: textarea
     id: reference
     attributes:
         label: References
-        description: Add any references such as peer reviewed or gray literature here.
+        description: Add any references such as peer-reviewed or gray literature here.
         
-#Your Name
+  # Your Name
   - type: input
     id: contributor_name
     attributes:
         label: IEA POC
         placeholder: Jane Doe
         
-#Your email
+  # Your email
   - type: input
     id: contributor_email
     attributes:
         label: IEA POC email
         placeholder: Jane.Doe@noaa.gov
         
-#SME Name
+  # SME Name
   - type: input
     id: sme_name
     attributes:
         label: External SME name
         placeholder: John Doe
         
-#SME email
+  # SME email
   - type: input
     id: sme_email
     attributes:
         label: External SME email
         placeholder: John.Doe@miami.edu
 
-#Data Steward Name
+  # Data Steward Name
   - type: input
     id: data_steward_name
     attributes:
         label: Data Steward name
         placeholder: Bob Dole
         
-#Data Steward email
+  # Data Steward email
   - type: input
     id: data_steward_email
     attributes:
         label: Data Steward email
         placeholder: Bob.Dole@miami.edu
         
-# Contributors
+  # Contributors
   - type: textarea
     id: contributors
     attributes:
         label: Other Contributors
-        description: Add any other collabotor names (internal or external).
+        description: Add any other collaborator names (internal or external).
         
-   - type: markdown
-     attributes:
-     value: "Don't forget to add this issue to the appropriate project board!"     
+  - type: markdown
+    attributes:
+      value: "Don't forget to add this issue to the appropriate project board!"      
