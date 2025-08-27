@@ -4,7 +4,6 @@ description: This form is to be filled out once all details about an ESR Metric 
   compiled. Responses will directly populate the ESR Methods Document. 
 title: "[PRODUCTION]:"
 labels: '[PRODUCTION]'
-assignees:
 
 body:
   - type: markdown
