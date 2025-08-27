@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "My Awesome Book",
     "section": "",
-    "text": "1 test",
+    "text": "1 test\nTesting action again",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>test</span>"
     ]
