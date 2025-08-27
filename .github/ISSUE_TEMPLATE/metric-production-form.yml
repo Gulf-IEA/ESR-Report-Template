@@ -270,7 +270,7 @@ body:
     validations:
       required: true
 
-- type: input
+   - type: input
     id: external_sme_email
     attributes:
       label: External Subject Matter Expert
@@ -288,7 +288,7 @@ body:
     validations:
       required: false
 
-  - type: input
+   - type: input
     id: data_steward_email
     attributes:
       label: Data Steward Email
