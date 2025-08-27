@@ -1,0 +1,46 @@
+name: SE-IEA ESR - Metric Development/Idea Issue
+description: Use this issue template if you have a lead on potential metric to include in the ESR
+title: "[Metric Idea]: "
+labels: ["metric_idea"]
+
+body:
+  - type: input
+    id: indicator_name
+    attributes:
+        label: Potential Indicator Name
+        description: What is the name of this potential indicator to include in the ESR?
+        placeholder: "Ex: Sea Surface Temperature"
+    validations:
+        required: true
+        
+#Your Name
+  - type: input
+    id: contributor_name
+    attributes:
+        label: IEA POC
+        placeholder: Jane Doe
+        
+#Is indicator selected
+  - type: dropdown
+    id: metric_selected
+    attributes:
+      label: Selected
+      description: Is this metric selected for further development?
+      options:
+        - Yes
+        - No
+        - Maybe
+      default: 0
+    validations:
+      required: true
+        
+#External subject matter expert
+  - type: input
+    id: sme_poc
+    attributes:
+        label: External SME
+        placeholder: Jane Doe
+        
+        
+        
+        
