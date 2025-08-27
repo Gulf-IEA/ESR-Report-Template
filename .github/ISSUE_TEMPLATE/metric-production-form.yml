@@ -5,7 +5,7 @@ title: "[PRODUCTION]:"
 labels: '[PRODUCTION]'
 
 body:
-  - type: markdown
+ - type: markdown
     id: description
     attributes:
        value: |
