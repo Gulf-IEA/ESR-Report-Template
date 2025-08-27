@@ -1,10 +1,10 @@
 ---
 name: Metric Production Form
-about: This form is to be filled out once all details about an ESR Metric have been
+description: This form is to be filled out once all details about an ESR Metric have been
   compiled. Responses will directly populate the ESR Methods Document. 
 title: "[PRODUCTION]:"
 labels: '[PRODUCTION]'
-assignees: ''
+assignees:
 
 body:
   - type: markdown
