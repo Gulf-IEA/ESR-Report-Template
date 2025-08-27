@@ -1,6 +1,7 @@
 # ESR Report Template 
-This is a template repository for creating Ecosystem Status Reports in the Gulf region. The standard folder structure is as follows:
+This is a template repository for creating Ecosystem Status Reports in the Gulf region.
 
+## Folder structure
 * data 
   * unformatted - data files retrieved from collaborators that cannot be accessed from an online source
   * intermediate - any intermediate data files created from R scripts
