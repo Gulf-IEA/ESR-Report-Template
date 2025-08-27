@@ -141,8 +141,8 @@ body:
     id: spatial_bounds
     attributes:
     label: Spatial Boundaries of Data
-      description: "Please provide the latitude and longitude boundaries of these data, if possible. Please use the following format: "[lat,lon],[lat,lon]", etc..."
-      placeholder: "ex. '[25, 90], [26,91]', etc..."
+      description: "Please provide the latitude and longitude boundaries of these data, if possible. Please use the following format: "(lat,lon), (lat,lon)", etc..."
+      placeholder: "ex. '(25, 90), (26,91)', etc..."
     validations:
       required: false
 
