@@ -24,6 +24,7 @@ This is a template repository for creating Ecosystem Status Reports in the Gulf 
   * outputs - indicator synthesis output files (tables, plots, etc.)
 * report - home for all files needed to create the ESR quarto book report (standard NOAA tech doc format)
 * sandbox - home for any misc. things, works in progress, etc.
+  * prelim_code - home for code during the metric idea development before code review and branch merging
 
 ## Other components of this repository
 This repository also contains two issue template files (within the .github/ISSUE_TEMPLATES folder). 
