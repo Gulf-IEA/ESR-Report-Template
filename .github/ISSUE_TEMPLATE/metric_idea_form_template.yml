@@ -62,6 +62,7 @@ body:
     attributes:
         label: IEA POC
         placeholder: Jane Doe
+        description: This is NOT necessarily the person that initially filled out the form, but the IEA POC will be the person who will be responsible for scouting, finding data, and some initial exploratory data analysis.
         
   # Your email
   - type: input
