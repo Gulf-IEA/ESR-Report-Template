@@ -1,5 +1,6 @@
 project: 
   type: book
+  output-dir: _book
 
 book: 
   page-navigation: true
@@ -8,7 +9,7 @@ book:
   site-url: "https://gulf-iea.github.io/ESR-Report-Template" 
   repo-url: "https://github.com/Gulf-IEA/ESR-Report-Template"
   repo-actions: [edit, source, issue]
-  favicon: assets/favicon.ico
+  favicon: report/assets/favicon.ico
   downloads: [pdf, docx]
   search: true
   author:
@@ -18,13 +19,13 @@ book:
           department: Southeast Fisheries Science Center
   chapters:
     - index.qmd
-    - content/performance_indicators.qmd
-    - content/risk_indicators.qmd
-    - content/synthesis.qmd
-    - content/recommendations.qmd
-    - content/acknowledgements.qmd
-    - content/contributors.qmd
-    - content/references.qmd
+    - report/content/performance_indicators.qmd
+    - report/content/risk_indicators.qmd
+    - report/content/synthesis.qmd
+    - report/content/recommendations.qmd
+    - report/content/acknowledgements.qmd
+    - report/content/contributors.qmd
+    - report/content/references.qmd
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
@@ -44,7 +45,7 @@ book:
     search: true
     collapse-level: 1
 
-bibliography: [content/references.bib]
+bibliography: [report/content/references.bib]
 
 execute:
   echo: false
@@ -60,18 +61,18 @@ format:
     toc: true
     toc-depth: 3
     lof: true
-    reference-doc: custom-reference-doc.docx
+    reference-doc: report/custom-reference-doc.docx
     always_allow_html: true
   html:
-    theme: [cosmo, assets/theme.scss] 
+    theme: [cosmo, report/assets/theme.scss] 
     toc: true
     toc-depth: 3
 
 filters:
-  - assets/include-files.lua
+  - report/assets/include-files.lua
   - quarto
 
 # Comment next 2 lines if the PDF is having trouble
 metadata-files:
-  - _frontmatter.yml
+  - report/_frontmatter.yml
  
