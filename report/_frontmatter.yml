@@ -30,7 +30,7 @@ format:
     coverpage: true
     coverpage-bg-image: "images/cover-header-2.png"
     coverpage-header: "NOAA Technical Memorandum NMFS-XXX-##"
-    coverpage-date: "December 2024"
+    coverpage-date: "{{< meta date >}}"
     coverpage-footer: |
       U.S. DEPARTMENT OF COMMERCE \
       \
