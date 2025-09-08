@@ -2,14 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gulf-iea.github.io/ESR-Report-Template/index.html</loc>
-    <lastmod>2025-09-08T17:40:22.565Z</lastmod>
+    <lastmod>2025-09-08T18:24:35.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gulf-iea.github.io/ESR-Report-Template/content/performance_indicators.html</loc>
+    <lastmod>2025-09-08T18:24:35.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gulf-iea.github.io/ESR-Report-Template/content/risk_indicators.html</loc>
+    <lastmod>2025-09-08T18:24:35.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gulf-iea.github.io/ESR-Report-Template/content/synthesis.html</loc>
+    <lastmod>2025-09-08T18:24:35.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gulf-iea.github.io/ESR-Report-Template/content/recommendations.html</loc>
+    <lastmod>2025-09-08T18:24:35.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gulf-iea.github.io/ESR-Report-Template/content/acknowledgements.html</loc>
+    <lastmod>2025-09-08T18:24:35.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gulf-iea.github.io/ESR-Report-Template/content/contributors.html</loc>
+    <lastmod>2025-09-08T18:24:35.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gulf-iea.github.io/ESR-Report-Template/content/references.html</loc>
+    <lastmod>2025-09-08T18:24:35.451Z</lastmod>
   </url>
   <url>
     <loc>https://gulf-iea.github.io/ESR-Report-Template/[Template]-Ecosystem-Status-Report.pdf</loc>
-    <lastmod>2025-09-08T17:43:34.796Z</lastmod>
+    <lastmod>2025-09-08T18:26:54.782Z</lastmod>
   </url>
   <url>
     <loc>https://gulf-iea.github.io/ESR-Report-Template/[Template]-Ecosystem-Status-Report.docx</loc>
-    <lastmod>2025-09-08T17:43:35.214Z</lastmod>
+    <lastmod>2025-09-08T18:26:55.275Z</lastmod>
   </url>
 </urlset>
