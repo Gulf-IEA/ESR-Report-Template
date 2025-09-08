@@ -28,5 +28,95 @@
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
+  },
+  {
+    "objectID": "content/performance_indicators.html",
+    "href": "content/performance_indicators.html",
+    "title": "2  Tracking performance toward fishery management objectives",
+    "section": "",
+    "text": "Editing this template page\n\n\n\nTemplate text is pulled from the 2025 Caribbean Ecosystem Status Report. Adjust accordingly.\n\n\nIn this section, we report indicators that are intended to capture progress towards meeting Fishery Management Plan objectives related to food production, socioeconomic health, equity, engagement and participation, bycatch reduction, governance and protection of ecosystems.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Tracking performance toward fishery management objectives</span>"
+    ]
+  },
+  {
+    "objectID": "content/risk_indicators.html",
+    "href": "content/risk_indicators.html",
+    "title": "3  Risks to meeting fishery management objectives",
+    "section": "",
+    "text": "Editing this template page\n\n\n\nTemplate text is pulled from the 2025 Caribbean Ecosystem Status Report. Adjust accordingly.\n\n\nIn this section, we report indicators that capture identified risks to the ecosystem that could impact the ability to meet Fishery Management Plan objectives. Unless otherwise specified, physical indicators reported for the U.S. Caribbean region were calculated over a bounding box with limits of longitude 68 degrees W to 64.5 degrees W and latitude 17.5 degrees N to 18.75 degrees N.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Risks to meeting fishery management objectives</span>"
+    ]
+  },
+  {
+    "objectID": "content/synthesis.html",
+    "href": "content/synthesis.html",
+    "title": "4  Integrated ecosystem perspectives",
+    "section": "",
+    "text": "Synthesis",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Integrated ecosystem perspectives</span>"
+    ]
+  },
+  {
+    "objectID": "content/recommendations.html",
+    "href": "content/recommendations.html",
+    "title": "5  Research recommendations",
+    "section": "",
+    "text": "Recommendations",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Research recommendations</span>"
+    ]
+  },
+  {
+    "objectID": "content/acknowledgements.html",
+    "href": "content/acknowledgements.html",
+    "title": "6  Acknowledgments",
+    "section": "",
+    "text": "6.1 Contributions\nThis report would like to acknowledge the efforts and contributions of:",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Acknowledgments</span>"
+    ]
+  },
+  {
+    "objectID": "content/acknowledgements.html#resources",
+    "href": "content/acknowledgements.html#resources",
+    "title": "6  Acknowledgments",
+    "section": "6.2 Resources",
+    "text": "6.2 Resources\nThis repo and GitHub Action associated with generating this report was based on the Openscapes tutorial quarto-website-tutorial by Julia Lowndes and Stefanie Butland.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Acknowledgments</span>"
+    ]
+  },
+  {
+    "objectID": "content/contributors.html",
+    "href": "content/contributors.html",
+    "title": "7  Contributors",
+    "section": "",
+    "text": "7.1 Editors\nxxx",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Contributors</span>"
+    ]
+  },
+  {
+    "objectID": "content/contributors.html#contributors",
+    "href": "content/contributors.html#contributors",
+    "title": "7  Contributors",
+    "section": "7.2 Contributors",
+    "text": "7.2 Contributors\nxxx",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Contributors</span>"
+    ]
+  },
+  {
+    "objectID": "content/references.html",
+    "href": "content/references.html",
+    "title": "References",
+    "section": "",
+    "text": "Montenero, Kelly, Chris Kelble, and Kathy Broughton. 2021. “A\nQuantitative and Qualitative Decision-Making Process for Selecting\nIndicators to Track Ecosystem Condition.” Marine Policy\n129: 104489. https://doi.org/https://doi.org/10.1016/j.marpol.2021.104489.\n\n\nSeara, Tarsila, Stacey M. Williams, Kiara Acevedo, Graciela\nGarcia-Molliner, Orian Tzadik, Michelle Duval, and Juan J. Cruz-Motta.\n2024. “Development and Analyses of Stakeholder Driven Conceptual\nModels to Support the Implementation of Ecosystem-Based Fisheries\nManagement in the U.S. Caribbean.” PLOS ONE 19 (5):\ne0304101. https://doi.org/10.1371/journal.pone.0304101.",
+    "crumbs": [
+      "References"
+    ]
   }
 ]
