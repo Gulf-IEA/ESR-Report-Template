@@ -15,7 +15,7 @@ book:
   author:
     - name: Gulf of America Integrated Ecosystem Assessment Program
       affiliations:
-        - name: NOAA Fisheres
+        - name: NOAA Fisheries
           department: Southeast Fisheries Science Center
   chapters:
     - index.qmd
